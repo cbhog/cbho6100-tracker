@@ -1,0 +1,19 @@
+{
+  "name": "cbho6100-tracker",
+  "version": "1.0.0",
+  "description": "My first nodeJS server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbhog/cbho6100-tracker.git"
+  },
+  "author": "cbhog",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbhog/cbho6100-tracker/issues"
+  },
+  "homepage": "https://github.com/cbhog/cbho6100-tracker#readme"
+}
